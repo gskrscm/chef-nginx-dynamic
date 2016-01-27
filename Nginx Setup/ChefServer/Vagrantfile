@@ -76,6 +76,6 @@ Vagrant.configure(2) do |confg|
      chef-server-ctl reconfigure
      opscode-manage-ctl reconfigure
      chef-server-ctl user-create admin Admin admin@xxxx.com 'admin' --filename /vagrant/admin.pem
-     chef-server-ctl org-create xebia "Xebia IT Architects" --association_user sandeep --filename /vagrant/xebia-validator.pem
+     chef-server-ctl org-create xebia "Xebia IT Architects" --association_user admin --filename /vagrant/xebia-validator.pem
    SHELL
 end
