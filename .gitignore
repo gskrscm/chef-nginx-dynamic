@@ -1,2 +1,9 @@
 Nginx Setup/ChefServer/chef-server-core-12.3.1-1.el6.x86_64.rpm
 Nginx Setup/ChefServer/.vagrant
+Nginx Setup/ChefWorkstation/.vagrant
+Nginx Setup/ChefClient/.vagrant
+Nginx Setup/ChefServer/admin.pem
+Nginx Setup/ChefServer/xebia-validator.pem
+Nginx Setup/ChefWorkstation/admin.pem
+Nginx Setup/ChefWorkstation/xebia-validator.pem
+Nginx Setup/ChefWorkstation/chefdk-0.10.0-1.el6.x86_64.rpm

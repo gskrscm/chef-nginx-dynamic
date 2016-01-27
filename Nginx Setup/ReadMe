@@ -6,3 +6,5 @@
 
 		Steps :
 			1) Chef Server Setup via Vagrant
+			2) Chef Client install
+			3) chef workstation installation
