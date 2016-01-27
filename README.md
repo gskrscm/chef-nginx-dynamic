@@ -1,4 +1,3 @@
-# chef-nginx-dynamic
-Chef DK practice
+Chef Practice 
 
-- Nginx Installation
+    - Nginx setup practice
