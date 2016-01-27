@@ -7,4 +7,7 @@
 		Steps :
 			1) Chef Server Setup via Vagrant
 			2) Chef Client install
-			3) chef workstation installation
+			3) chef workstation installation	
+			4) configured chef client to server from workstation. 
+				-> sudo knife ssl_fetch
+				-> knife bootstrap 192.168.33.16 -x vagrant -P vagrant --sudo
